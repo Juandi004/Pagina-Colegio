@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{  
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+#redirectButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.contact{
+    margin-top: 500px;
+}
